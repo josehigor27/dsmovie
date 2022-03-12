@@ -22,7 +22,7 @@ public class Score {
 		return id;
 	}
 	
-	public void serMovie(Movie movie) {
+	public void setMovie(Movie movie) {
 		id.setMovie(movie);
 	}
 	
