@@ -13,6 +13,8 @@ function Listing() {
                 console.log(response.data)
             });
 
+            
+
     return (
         <>
             <Pagination />
